@@ -17,10 +17,9 @@ This app is developed as a part of the final course in [Launch School](*https://
 ## Review of the Functionality and Basic Use Cases
 
 Please check a short video on YouTube with me going through the main features of the Todo App by following this URL: 
+[https://youtu.be/YpH0aOYKcuc](https://youtu.be/YpH0aOYKcuc)
 
-**Need to create a short review video of the application**
-
-## Testing and Installation
+## Testing the App
 
 The live demo of the application deployed using Heroku can be reviewed by following URL: https://limitless-plains-71401.herokuapp.com/users/signin
 
